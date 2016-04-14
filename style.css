@@ -3,6 +3,8 @@ body{
 	margin: 50px;
 }
 h1{	font-family: serif;
+	color: red;
 }
-p{font-family: serif;
+p{	font-family: serif;
+	color: gray;
 }
